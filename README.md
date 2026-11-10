@@ -1,6 +1,6 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 
-<h1 align="center">Hey, I'm Rishu 👋</h1>
+<h1 align="center">Hey, I'm Rishikesh 👋</h1>
 
 <h3 align="center">🎓 BCA Student | 💻 Aspiring Software Developer | 🚀 Lifelong Learner</h3>
 
